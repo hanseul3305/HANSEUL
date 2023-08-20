@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying on [Github](https://github.com/https://github.com/hanseul3305/JAVAMATE)    
 
-- 📑 [Resume_Notion](https://www.notion.so/c458e85f63304808b8458993bd147535)
+- 📑 [Resume_Notion](https://stripe-bulb-9f8.notion.site/c458e85f63304808b8458993bd147535?pvs=4)
   
 
 <br/>  
