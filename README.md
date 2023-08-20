@@ -10,7 +10,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="*%">
 
 
 ### Frontend  
@@ -22,7 +22,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />
 </div>
 
-</td><td valign="top" width="35%">
+</td><td valign="top" width="33%">
 
 
 ### Backend  
